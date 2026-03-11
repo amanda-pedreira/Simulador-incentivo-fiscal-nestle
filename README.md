@@ -9,7 +9,7 @@ Este simulador foi criado para tornar um tema complexo mais acessível, ajudando
 ## Acesso ao sistema
 
 🌐 Simulador disponível publicamente em produção:  
-[https://www.funepp.com.br/wp-content/uploads/2026/01/index26.html](https://www.funepp.com.br/wp-content/uploads/2026/02/index.html)
+https://www.funepp.com.br/wp-content/uploads/2026/02/index.html
 
 ---
 
